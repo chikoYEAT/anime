@@ -32,7 +32,7 @@ If you encounter any issues or have suggestions for improvement, please feel fre
 
 ## Contributing
 
-Contributions are welocmed, If you're interested in improving the Random Anime Extension, please submit your pull request.
+Contributions are welcomed, If you're interested in improving then please submit your pull request.
 
 
 Thank you for trying out the Random Anime Extension. Happy anime discovering!
