@@ -14,7 +14,7 @@ Random Anime Extension is a browser extension which will help you discovering ne
 ## Installation
 
 1. Clone this repo `https://github.com/imanav10/anime.git`.
-2. Open Chrome or firefox enable developers option and load unpacked.
+2. Open Chrome or firefox enable developers option and **load unpacked**.
 3. Go to `anime/dist` and unpack that folder.
 4. Enable the extension and enjoy.
 ![](assets/image2.png)
