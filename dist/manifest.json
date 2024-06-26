@@ -2,9 +2,12 @@
     "version": "1.0.0",
     "manifest_version": 3,
     "name": "Random Anime",
-    "description": "This is a Chrome extension built with React and TypeScript",
+    "description": "Random Anime Extension",
     "action": {
         "default_popup": "js/index.html",
-        "default_title": "React Chrome Extension"
+        "default_title": "Random Anime"
+    },
+    "icons": {
+        "128": "icons/logo.png"
     }
 }
