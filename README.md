@@ -1,7 +1,7 @@
 # Random Anime Extension
 
 <p align="center">
-<img src="assets/logo.png" width="100"/>
+<img src="assets/logo.png" width="250"/>
 </p>
 Random Anime Extension is a browser extension which will help you discovering new and exciting anime with just a click. Perfect for anime enthusiasts and those looking to dive into the world of anime, our extension offers a simple yet delightful experience.
 
