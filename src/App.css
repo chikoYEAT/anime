@@ -1,12 +1,18 @@
 .App {
   color: white;
   text-align: center;
-  display: flex;
 }
 
 .container {
-  width: 50px;
-  height: 50px;
-  background-color: green;
+  max-width: 500px; /* Adjust the size as needed */
+  max-height: 500px; /* Adjust the size as needed */
+  width: 100%;
+  height: 100%;
+  margin: auto; /* Centers the container */
+  background-color: white;
+}
 
+p {
+  align-items: center;
+  justify-content: center;
 }
