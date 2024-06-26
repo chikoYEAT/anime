@@ -23,7 +23,7 @@ Random Anime Extension is a browser extension which will help you discovering ne
 
 After installation, simply click on the Random Anime logo in your browser's extension area. The extension will then present you with the name and a brief description of a randomly selected anime. It's that easy!
 <p align="center">
-<img src="assets/image.png" width="400"/>
+<img src="assets/image.png" width="250"/>
 </p>
 
 ## Support
