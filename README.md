@@ -1,7 +1,7 @@
 # Random Anime Extension
 
 <p align="center">
-<img src="assets/logo.png" width="100"/>
+<img src="assets/logo.png" width="250"/>
 </p>
 Random Anime Extension is a browser extension which will help you discovering new and exciting anime with just a click. Perfect for anime enthusiasts and those looking to dive into the world of anime, our extension offers a simple yet delightful experience.
 
@@ -14,7 +14,7 @@ Random Anime Extension is a browser extension which will help you discovering ne
 ## Installation
 
 1. Clone this repo `https://github.com/imanav10/anime.git`.
-2. Open Chrome or firefox enable developers option and load unpacked.
+2. Open Chrome or firefox enable developers option and **load unpacked**.
 3. Go to `anime/dist` and unpack that folder.
 4. Enable the extension and enjoy.
 ![](assets/image2.png)
@@ -23,7 +23,7 @@ Random Anime Extension is a browser extension which will help you discovering ne
 
 After installation, simply click on the Random Anime logo in your browser's extension area. The extension will then present you with the name and a brief description of a randomly selected anime. It's that easy!
 <p align="center">
-<img src="assets/image.png" width="100"/>
+<img src="assets/image.png" width="250"/>
 </p>
 
 ## Support
@@ -32,7 +32,7 @@ If you encounter any issues or have suggestions for improvement, please feel fre
 
 ## Contributing
 
-Contributions are welocmed, If you're interested in improving the Random Anime Extension, please submit your pull request.
+Contributions are welcomed, If you're interested in improving then please submit your pull request.
 
 
 Thank you for trying out the Random Anime Extension. Happy anime discovering!
